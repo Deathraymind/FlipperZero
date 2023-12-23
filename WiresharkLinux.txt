@@ -1,0 +1,8 @@
+CTRL-ALT t
+DELAY 500
+STRING sudo apt install wireshark -y
+ENTER
+DELAY 10000
+ENTER
+STRING sudo wireshark
+ENTER
